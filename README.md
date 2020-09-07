@@ -9,6 +9,9 @@ Implement one or two automated tests based on the test cases.
 Write the tests as if they were a part of a real project.
 
 ### Implementation details
+Task 1 is added as a pdf file.
+Test cases for task 2 are in `Task 2 API test cases.xlsx` file.
+
 _Disclaimer.
 Before running the script, please, make sure that you have `python3` and `virtualenv` installed on your machine.
 If you don't, then please install then with the following commands:_
